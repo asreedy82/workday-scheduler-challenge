@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-The application displays today's date and time. It also color-codes each hour to show if the hour is in the past, present or future with grey for past hours, red for present, and green for future. To use the app, just enter the task you need completed for the hour it needs to be done then click 'save'. If you close the tab or window, the saved entries will be there when you return (unless you clear your cache).
+The application displays today's date. It also color-codes each hour to show if the hour is in the past, present or future with grey for past hours, red for present, and green for future. To use the app, just enter the task you need completed for the hour it needs to be done then click 'save'. If you close the tab or window, the saved entries will be there when you return (unless you clear your cache).
 
 ![Screen shot of main section of website](assets/images/workday-scheduler-challenge-ss.png)
 
